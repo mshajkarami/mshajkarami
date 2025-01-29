@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mshajkarami  
+- 👋 Hi, I’m Mohamad Saleh Hajkarami
 - 👀 I’m interested in Android development, problem-solving, and creating innovative applications.  
 - 🌱 I’m currently learning **Kotlin**, **Java**, **algorithms**, and **data structures**.  
 - 💻 My skills include:  
