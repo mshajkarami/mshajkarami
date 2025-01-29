@@ -15,9 +15,19 @@
 - 💞️ I’m looking to collaborate on open-source Android projects and tools that enhance productivity.  
 - 📫 How to reach me: mshajkarami@gmail.com  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I’m a history enthusiast and enjoy discovering the stories behind technological innovations!  
+- ⚡ Fun fact: I’m a history enthusiast and enjoy discovering the stories behind technological innovations!
+
+- ## 📊 GitHub Stats:
+![Mohamad Saleh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mshajkarami&show_icons=true&theme=dark&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=mshajkarami&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mshajkarami&layout=compact&theme=dark)
+  
 
 <!---
 mshajkarami/mshajkarami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
