@@ -17,7 +17,7 @@ I'm a passionate **Android Developer** and **problem solver** who loves creating
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## 🎯 Goals
-- **Develop 40 simple Android applications** and publish them in a GitHub repository.
+- **Develop AndroidBasicsLab**, a collection of simple Android applications.
 - **Create CodeQuest**, a collection of algorithmic solutions in multiple languages.
 - **Build SimBox**, a gaming database app for emulator-supported games.
 - **Improve my English proficiency** to engage with the global developer community.
@@ -28,7 +28,7 @@ I'm a passionate **Android Developer** and **problem solver** who loves creating
 
 🔹 [**SimBox (Coming Soon)**](https://github.com/mshajkarami/SimBox) - A gaming database app focused on emulator-compatible games.
 
-🔹 **40 Android Projects** - A compilation of simple yet useful Android applications (in progress).
+🔹 [**AndroidBasicsLab**](https://github.com/mshajkarami/AndroidBasicsLab) - A compilation of simple yet useful Android applications (in progress).
 
 ## 🤝 Collaboration
 I’m looking to collaborate on **open-source Android projects**, **developer tools**, and **problem-solving challenges**. If you're interested, feel free to reach out!
