@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Mohamad Saleh Hajkarami
+# 👋 Hi, I’m Mohammad Saleh Hajkarami
 
 ## 🚀 About Me
 I'm a **Front-End & Android Developer** passionate about building clean, user-friendly, and efficient applications.  
