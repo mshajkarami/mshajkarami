@@ -51,5 +51,4 @@ I’m a history enthusiast who loves discovering the stories behind great innova
 
 ## 📊 GitHub Stats
 ![Mohammad Saleh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mshajkarami&show_icons=true&theme=dark&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=mshajkarami&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mshajkarami&layout=compact&theme=dark)
