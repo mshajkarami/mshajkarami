@@ -41,7 +41,7 @@ I’m open to collaborating on **frontend**, **Android**, and **open-source** pr
 If you have an idea or want to build something cool together, feel free to reach out!
 
 ## 📫 Contact Me
-- Email: mshajkarami@gmail.com  
+- Email: mshajkarami.dev@gmail.com  
 - GitHub: [mshajkarami](https://github.com/mshajkarami)
 
 ## ⚡ Fun Fact
