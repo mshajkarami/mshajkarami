@@ -1,15 +1,15 @@
 # 👋 Hi, I’m Mohammad Saleh Hajkarami
 
 ## 🚀 About Me
-I'm a **Front-End & Android Developer** passionate about building clean, user-friendly, and efficient applications.  
-I enjoy solving problems, learning new technologies, and improving through real-world projects.
+I help startups and early-stage businesses turn their raw ideas into market-ready products. With experience in mobile and web development, UI/UX design, and backend architecture, I support teams in taking their products from concept to execution in a scalable, user-friendly, and efficient way.
 
-Currently, I’m expanding my skills from Android development toward **modern web technologies**, aiming to bridge mobile and web experiences together.
 
 ## 🌱 Currently Learning
-- **React** and **Tailwind CSS** (for front-end development)
 - **Kotlin** and **Java** (for Android development)
+- **Flutter** (for cross-platform mobile development)
+- **React** and **Tailwind CSS** (for front-end development)
 - **Algorithms & Data Structures** (to strengthen problem-solving skills)
+- **Figma** and **Adobe XD** (for UI/UX design)
 - **C++** (for performance-focused programming)
 - **C#** (for university projects)
 
